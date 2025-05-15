@@ -1,0 +1,35 @@
+h1 {
+    color: gold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 80px;
+    font-style: Trebuchet MS;
+}
+
+body {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button {
+    background-color: purple;
+    color: gold;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 200px;
+
+    margin-top: 5px;
+    
+}
+ .buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
